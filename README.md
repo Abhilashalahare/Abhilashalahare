@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhilasha Lahare
 - 👀 I’m interested in Frontend and Backend Development
 - 🌱 I’m currently learning Gen AI
-- 💞️ I’m looking to collaborate on Full Stcak Projects
+- 💞️ I’m looking to collaborate on Full Stack Projects
 
 
 <!---
